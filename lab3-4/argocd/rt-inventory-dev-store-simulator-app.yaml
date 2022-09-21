@@ -13,7 +13,7 @@ spec:
   project: finn16
   source:
     path: lab3-4/apps/store-simulator/overlays
-    repoURL: https://github.com/jbcodeforce/eda-tech-academy.git
+    repoURL: https://github.com/DebatIBM/eda-tech-academy.git
   syncPolicy:
     automated:
       prune: true
